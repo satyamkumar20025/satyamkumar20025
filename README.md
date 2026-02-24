@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
-<h3 align="center">Full Stack Developer | Java & Spring Boot Enthusiast | Problem Solver</h3>
+<h1 align="center">Satyam Kumar</h1>
+<h3 align="center">Full Stack Developer | Java & Spring Boot</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=satyamkumar20025&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -7,36 +7,24 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Currently mastering **Java Full Stack Development**
-- 💻 Building projects using **Spring Boot, React & MySQL**
-- 🧠 Strong interest in **AI & Machine Learning**
-- 🎯 Goal: Contribute to impactful open-source projects
-- 🌱 Always learning and improving every day
+Full Stack Developer focused on Java and Spring Boot.  
+I build scalable backend systems and responsive web applications using modern technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
-Java • Python • JavaScript • C • C++
-
-### 🌐 Frontend
-HTML • CSS • React • Angular
-
-### ⚙️ Backend
-Spring Boot • REST APIs
-
-### 🗄️ Database
-MySQL
-
-### 🛠 Tools
-Git • GitHub • Postman
+**Languages:** Java, Python, JavaScript, C, C++  
+**Frontend:** HTML, CSS, React, Angular  
+**Backend:** Spring Boot, REST APIs  
+**Database:** MySQL  
+**Tools:** Git, GitHub, Postman  
 
 ---
 
-## 🌐 Connect With Me
+## Connect
 
 <p align="center">
   <a href="https://github.com/satyamkumar20025">
@@ -52,10 +40,6 @@ Git • GitHub • Postman
 
 ---
 
-## 📫 Contact
+## Contact
 
-📧 Email: **satyamkumar6372@gmail.com**
-
----
-
-⭐ *"Code. Build. Learn. Repeat."*
+Email: satyamkumar6372@gmail.com
