@@ -1,5 +1,5 @@
 <h1 align="center">Satyam Kumar</h1>
-<h3 align="center">Full Stack Developer | Java & Spring Boot</h3>
+<h3 align="center">Full Stack Developer | Java | Spring Boot | REST APIs</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=satyamkumar20025&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -7,24 +7,26 @@
 
 ---
 
-## About Me
+## About
 
-Full Stack Developer focused on Java and Spring Boot.  
-I build scalable backend systems and responsive web applications using modern technologies.
+Full Stack Developer with a strong focus on backend development using Java and Spring Boot.  
+Experienced in building RESTful APIs, integrating relational databases, and developing responsive user interfaces.
+
+Continuously improving problem-solving skills and exploring modern software development practices.
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-**Languages:** Java, Python, JavaScript, C, C++  
-**Frontend:** HTML, CSS, React, Angular  
-**Backend:** Spring Boot, REST APIs  
+**Programming:** Java, Python, JavaScript, C, C++  
+**Frontend:** HTML5, CSS3, React, Angular  
+**Backend:** Spring Boot, RESTful Services  
 **Database:** MySQL  
-**Tools:** Git, GitHub, Postman  
+**Tools & Version Control:** Git, GitHub, Postman  
 
 ---
 
-## Connect
+## Profiles
 
 <p align="center">
   <a href="https://github.com/satyamkumar20025">
@@ -42,4 +44,4 @@ I build scalable backend systems and responsive web applications using modern te
 
 ## Contact
 
-Email: satyamkumar6372@gmail.com
+Email: **satyamkumar6372@gmail.com**
